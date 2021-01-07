@@ -1,0 +1,7 @@
+AuthName "new.yemeksiparisi.com.tr statistics"
+AuthType Basic
+AuthUserFile /home/yemeksiparisi/domains/new.yemeksiparisi.com.tr/.stats-htpasswd
+require valid-user
+<Files .stats-htpasswd>
+deny from all
+</Files>

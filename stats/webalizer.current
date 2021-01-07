@@ -1,0 +1,1014 @@
+# Webalizer V2.23-08 Incremental Data - 01/22/2020 00:09:40
+2020 1 22 0 9 40
+31786 30368 101 197 71 29 61640332 28772 143 0
+1 1 2613 8 22
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+13486 12426 16656006 27 12584 24
+14649 14486 10300454 37 14189 43
+9 5 42236 3 4 2
+3 0 0 3 0 0
+5 1 0 3 2 1
+9 6 147720 5 6 2
+5 1 6494 4 1 1
+1842 1752 7917616 8 1390 6
+368 328 2269223 12 288 13
+1198 1175 21458307 16 254 25
+94 87 1780078 8 33 13
+14 7 37561 6 6 6
+90 86 975738 3 8 1
+13 7 42550 10 6 6
+1 1 6349 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+757 756 59875 756
+560 560 55358 560
+6 4 22128 4
+2 2 7226 1
+113 109 23404 112
+761 758 59951 759
+760 759 77309 759
+755 755 53528 755
+876 851 661932 793
+1391 1320 3382110 1294
+4292 4194 12298325 3679
+4327 4295 10757001 3904
+5372 4278 21091541 4273
+3808 3771 6252164 3485
+823 822 1778036 772
+836 835 868843 763
+854 854 2040116 775
+804 802 650661 764
+760 759 71542 759
+770 770 135748 768
+757 756 72524 755
+845 844 1103124 766
+769 756 53591 756
+788 758 64295 760
+0
+0
+0
+30368
+0
+0
+0
+0
+0
+208
+0
+247
+31
+0
+25
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+907
+0
+0
+0
+0
+0
+# -urls- 
+/merchant
+0 2 0 11275 0 0
+/assets/vendor/jqplot/jquery.jqplot.min.js
+0 2 0 84202 0 0
+/assets/images/step3.png
+1 14 0 39416 0 0
+/assets/vendor/nprogress/nprogress.js
+0 28 0 99876 0 0
+/assets/vendor/fancybox/source/jquery.fancybox.css
+0 33 0 48477 0 0
+/merchant/add-on-category
+0 1 0 5611 0 0
+/assets/images/default-image-merchant.png
+1 10 0 62270 0 0
+/assets/vendor/imagesloaded.pkgd.js
+0 28 0 191828 0 0
+/admin/settings
+0 5 0 107248 0 0
+/assets/vendor/chosen/chosen.jquery.min.js
+0 29 0 182671 0 0
+/ajaxadmin
+0 14717 0 946869 12 5
+/assets/vendor/iCheck/skins/all.css
+0 30 0 11600 0 0
+/assets/vendor/uikit/css/addons/uikit.gradient.addons.min.css
+0 10 0 53188 0 0
+/assets/vendor/jqplot/plugins/jqplot.json2.min.js
+0 2 0 2836 0 0
+/admin/dashboard
+0 7 0 41598 0 0
+/assets/vendor/jqplot/plugins/jqplot.pointLabels.min.js
+0 2 0 3152 0 0
+/assets/vendor/raty/jquery.raty.css
+0 25 0 8475 0 0
+/merchant/FoodItem/Do/Add
+0 1 0 6661 0 0
+/admin/login
+0 10 0 63261 3 1
+/merchant/FoodItem/Do/Add/id/1
+0 1 0 6785 0 0
+/assets/vendor/iCheck/skins/flat/flat.png
+1 9 0 12120 0 0
+/assets/images/banner.jpg
+1 13 0 1871364 0 0
+/assets/vendor/jquery-ui-1.11.4/jquery-ui.min.js
+0 28 0 1807148 0 0
+/ajaxadmin/getNewCancelOrderAdmin
+0 6858 0 438912 5 1
+/assets/css/install.css
+0 1 0 267 0 0
+/assets/images/star.png
+1 6 0 6798 0 0
+/assets/js/store.js
+0 50 0 1233470 0 0
+/assets/vendor/DataTables/fnReloadAjax.js
+0 32 0 23250 0 0
+/assets/vendor/iCheck/skins/minimal/minimal.png
+1 9 0 8912 0 0
+/assets/vendor/bootstrap/css/bootstrap.min.css.map
+0 13 0 252447 0 0
+/assets/vendor/jqplot/plugins/jqplot.dateAxisRenderer.min.js
+0 2 0 5526 0 0
+/merchant/food-item
+0 3 0 16956 0 0
+/cuisine
+0 46 0 246499 27 21
+/admin/cancel_order
+0 1 0 5596 0 0
+/merchantsignupselection
+0 8 0 44080 1 1
+/merchant/login
+0 3 0 11456 0 0
+/guestcheckout
+0 20 0 151320 1 0
+/assets/images/store-logo4.png
+1 6 0 4590 0 0
+/assets/vendor/iCheck/skins/flat/_all.css
+0 32 0 57734 0 0
+/assets/js/k_mapbox.js
+0 27 0 72522 0 0
+/ajaxmerchant/
+0 6 0 150 0 0
+/merchant/category-list
+0 1 0 5614 0 0
+/assets/vendor/font-awesome/css/font-awesome.min.css
+0 26 0 183541 0 0
+/assets/vendor/ajaxupload/fileuploader.js
+0 6 0 122410 0 0
+/assets/vendor/intel/lib/libphonenumber/build/utils.js
+0 15 0 753150 0 0
+/admin/ManageCurrency/Do/Add
+0 1 0 5653 0 0
+/assets/vendor/DataTables/jquery.dataTables.min.js
+0 32 0 793534 0 0
+/assets/vendor/waypoints/shortcuts/infinite.min.js
+0 28 0 17752 0 0
+/assets/vendor/gmaps.js
+0 28 0 361592 0 0
+/admin/iyzico-settings
+0 25 0 142613 0 0
+/assets/vendor/intel/build/img/flags@2x.png
+1 1 0 188814 0 0
+/assets/vendor/uikit/css/uikit.almost-flat.min.css
+0 10 0 278228 0 0
+/iyzipayinit/
+0 2 0 12037 0 0
+/assets/vendor/noty-2.3.7/js/noty/packaged/jquery.noty.packaged.min.js
+0 28 2394338307291164217 138796 0 0
+/assets/images/cuisine.png
+1 14 1836016430 47645 0 0
+/assets/vendor/magnific-popup/magnific-popup.css
+0 25 1836016430 48750 0 0
+/assets/vendor/EasyAutocomplete/easy-autocomplete.min.css
+0 25 7002646021468613999 36500 0 0
+/assets/vendor/iCheck/icheck.js
+0 32 4049067234421964800 142478 0 0
+/assets/vendor/jquery.geocomplete.min.js
+0 28 94 68404 0 0
+/ajaxmerchant/getNewCancelOrder
+0 993 0 63552 0 1
+/merchant/
+0 1 12 5636 0 0
+/assets/vendor/magnific-popup/jquery.magnific-popup.js
+0 28 0 391356 0 0
+/assets/vendor/iCheck/skins/polaris/polaris.css
+0 32 0 16688 0 0
+/assets/vendor/jquery-cookie.js
+0 28 0 17388 0 0
+/admin/merchant
+0 5 0 28521 0 0
+/assets/vendor/iCheck/skins/minimal/_all.css
+0 32 0 64596 0 0
+/assets/vendor/jquery.appear.js
+0 28 0 38052 0 0
+/assets/vendor/justified-gallery/css/justifiedGallery.min.css
+0 25 0 16700 0 0
+/ajax
+0 293 982925668471868909 93424 0 3
+/assets/vendor/waypoints/jquery.waypoints.min.js
+0 28 0 75544 0 0
+/paymentoption/
+0 1 0 7424 0 0
+/admin/merchantAdd/id/1
+0 1 0 11781 0 0
+/assets/images/divider.png
+1 28 0 42930 0 0
+/assets/vendor/parallax.js/parallax.min.js
+0 28 0 58744 0 0
+/assets/images/your-order.png
+1 14 0 35154 0 0
+/assets/vendor/bootstrap/js/bootstrap.min.js
+0 29 0 310288 0 0
+/favicon.ico
+0 154 0 175950 0 0
+/assets/vendor/raty/jquery.raty.js
+0 28 0 126028 0 0
+/assets/vendor/uikit/fonts/fontawesome-webfont.woff
+0 89 0 3416152 0 0
+/assets/vendor/jQuery-TE_v.1.4.0/jquery-te-1.4.0.min.js
+0 8 0 49016 0 0
+/assets/vendor/ionicons-2.0.1/css/ionicons.min.css
+0 25 0 207100 0 0
+/searcharea
+0 3 0 16875 2 1
+/merchantsignup
+0 24 0 174344 3 2
+/assets/vendor/uikit/fonts/fontawesome-webfont.ttf
+0 125 0 7579704 0 0
+/assets/images/b-2-mobile.jpg
+1 16 0 937845 0 0
+/assets/vendor/chosen/chosen-sprite.png
+1 3 0 1292 0 0
+/assets/vendor/uikit/js/addons/sticky.min.js
+0 10 0 10568 0 0
+/.well-known/acme-challenge/nRhMMz-dhG3U8SK4PtNLNuHYTvm9lJtAg6NeXTaQvjQ
+0 3 0 261 0 0
+/assets/images/step2.png
+1 14 3543831757896692537 37375 0 0
+/admin/
+0 4 4050988964331388928 23628 0 0
+/assets/vendor/intel/build/img/flags.png
+1 17 7350215647456803128 1058736 0 0
+/ajax/loadFavorites
+0 95 0 5130 0 3
+/assets/vendor/colorpick/css/colpick.css
+0 30 0 76032 0 0
+/assets/vendor/animate.min.css
+0 25 3347422891442202479 104950 0 0
+/assets/images/step1.png
+1 14 7235437916346070317 27742 0 0
+/admin/packagesAdd/id/1
+0 1 3543551348172849152 5923 0 0
+/assets/vendor/iCheck/skins/futurico/futurico.css
+0 32 7146704829492191589 16104 0 0
+/assets/vendor/rupee/rupyaINR.css
+0 27 24097 4374 0 0
+/assets/js/admin.js
+0 10 26495182815967022 359978 0 0
+/assets/images/b-2.jpg
+1 10 29797 2943774 0 0
+/assets/vendor/jQuery-TE_v.1.4.0/jquery-te.png
+1 1 0 2603 0 0
+/admin/commisionsettings
+0 4 0 25593 0 0
+/assets/images/logo-desktop.png
+1 29 0 112196 0 0
+/assets/vendor/intel/build/js/intlTelInput.js
+0 28 0 569716 0 0
+/assets/js/merchant.js
+0 2 0 3038 0 0
+/admin/paypal-settings
+0 2 0 11693 0 0
+/assets/vendor/jqplot/jquery.jqplot.min.css
+0 2 0 1874 0 0
+/store
+0 2 0 12986 1 2
+/assets/vendor/chosen/chosen.css
+0 30 0 94220 0 0
+/.well-known/acme-challenge/QeJsdjppkcldB7UsIcO8f4F7Y92Fp6pte_jjs2Zq-3U
+0 4 0 348 0 0
+/assets/vendor/justified-gallery/js/jquery.justifiedGallery.min.js
+0 28 0 134512 0 0
+/ajax/
+0 28 0 28896 1 0
+/assets/vendor/fancybox/source/fancybox_overlay.png
+1 10 0 10030 0 0
+/merchant/CategoryList/Do/Add
+0 1 0 5862 0 0
+/assets/vendor/markercluster.js
+0 27 0 207630 0 0
+/assets/vendor/SimpleAjaxUploader.min.js
+0 29 0 234784 0 0
+/browse/
+0 3 0 18259 2 0
+/assets/vendor/iCheck/skins/minimal/minimal@2x.png
+1 9 0 12690 0 0
+/assets/images/logo-mobile.png
+1 28 0 198396 0 0
+/admin/packagesAdd
+0 1 0 5894 0 0
+/assets/vendor/jqplot/plugins/jqplot.categoryAxisRenderer.min.js
+0 2 0 4926 0 0
+/assets/vendor/typehead/bootstrap3-typeahead.min.js
+0 27 0 77841 0 0
+/assets/js/uploader.js
+0 6 0 14028 0 0
+/signup
+0 5 0 48253 1 0
+/ajaxmerchant
+0 4333 0 278989 30 3
+/assets/vendor/readmore.min.js
+0 28 0 47852 0 0
+/assets/images/banner-5-mobile.jpg
+1 18 0 5885026 0 0
+/ajaxmerchant/uploadFile/
+0 1 0 285 0 0
+/menu-pizzeria
+0 35 0 323476 1 1
+/merchantsignupinfo
+0 23 0 215491 1 0
+/assets/js/fblogin.js
+0 8 0 10760 0 0
+/assets/vendor/jqplot/plugins/jqplot.barRenderer.min.js
+0 2 0 6784 0 0
+/contact
+0 4 0 22100 3 1
+/assets/vendor/jquery.creditCardValidator.js
+0 2 0 5284 0 0
+/assets/images/grey-bg.png
+1 25 0 32520 0 0
+/assets/vendor/jqplot/plugins/jqplot.canvasTextRenderer.min.js
+0 2 0 7376 0 0
+/assets/vendor/EasyAutocomplete/jquery.easy-autocomplete.min.js
+0 28 0 135828 0 0
+/admin/manage-currency
+0 1 0 5628 0 0
+/iyzipayinit
+0 37 0 124682 1 0
+/assets/css/store.css
+0 26 0 270824 0 0
+/confirmorder
+0 16 0 103280 0 0
+/assets/vendor/JQV/form-validator/jquery.form-validator.min.js
+0 32 0 365552 0 0
+/assets/vendor/theia-sticky-sidebar.js
+0 28 0 85652 0 0
+/assets/vendor/iCheck/skins/square/_all.css
+0 32 0 64490 0 0
+/ajax/getRemainingReview
+0 33 0 3347 0 1
+/assets/vendor/fancybox/source/jquery.fancybox.js
+0 36 0 501192 0 0
+/assets/vendor/nprogress/nprogress.css
+0 25 0 13775 0 0
+/assets/vendor/fancybox/source/fancybox_loading@2x.gif
+1 4 0 116720 0 0
+/assets/vendor/fancybox/source/fancybox_loading.gif
+1 6 0 175080 0 0
+/assets/css/store-v2.css
+0 31 0 346771 0 0
+/assets/css/responsive.css
+0 25 0 62600 0 0
+/assets/vendor/raty/images/star-off.png
+1 10 0 6850 0 0
+/
+0 94 0 718831 36 5
+/browse
+0 27 0 169453 1 0
+/ajax/addToFavorite
+0 1 0 99 0 0
+/assets/vendor/ionicons-2.0.1/fonts/ionicons.ttf
+0 25 0 4524192 0 0
+/cart
+0 3 0 13282 0 0
+/assets/vendor/iCheck/skins/flat/flat@2x.png
+1 4 0 12868 0 0
+/assets/vendor/jqplot/excanvas.min.js
+0 2 0 15356 0 0
+/assets/vendor/intel/build/css/intlTelInput.css
+0 25 0 70600 0 0
+/menu-
+0 2 0 10478 2 1
+/assets/images/section1-bg.png
+1 14 0 2340 0 0
+/admin/packages
+0 4 0 22779 1 0
+/.well-known/acme-challenge/Sy6EcvQsSMoITPf6PtI-i7Pj4aLxBwxWYDqiKTpFkJY
+0 4 0 348 0 0
+/assets/images/map_pointer_small.png
+1 6 0 13002 0 0
+/assets/sound/notify.mp3
+0 9 0 105168 0 0
+/assets/vendor/uikit/js/addons/sortable.min.js
+0 8 0 18696 0 0
+/assets/images/delivery-option.png
+1 7 0 17192 0 0
+/admin
+0 4 0 23685 0 0
+/paymentoption
+0 36 0 267053 2 1
+/assets/vendor/jQuery-TE_v.1.4.0/jquery-te-1.4.0.css
+0 8 0 17432 0 0
+/admin/paymentgatewaysettings
+0 7 0 40253 0 0
+/assets/vendor/uikit/css/addons/uikit.addons.min.css
+0 10 0 44156 0 0
+/assets/vendor/iCheck/skins/line/_all.css
+0 32 0 93846 0 0
+/assets/vendor/jquery.ui.timepicker-0.0.8.js
+0 32 0 403904 0 0
+/assets/vendor/uikit/js/uikit.js
+0 10 0 292222 0 0
+/upload/1578560666-1 - Copy.jpg
+1 3 0 81778 0 0
+/assets/vendor/fancybox/source/fancybox_sprite@2x.png
+1 4 0 26212 0 0
+/assets/vendor/font-awesome/fonts/fontawesome-webfont.woff2
+0 18 0 1132608 0 0
+/checkout/
+0 13 0 85933 0 1
+/assets/images/b-4.jpg
+1 1 0 262376 0 0
+/assets/vendor/jquery-1.10.2.min.js
+0 32 0 1170274 0 0
+/merchant/CategoryList/Do/Add/id/1
+0 1 0 5862 0 0
+/assets/images/banner-5.jpg
+1 18 0 9064369 0 0
+/assets/css/admin.css
+0 10 0 76726 0 0
+/merchantsignup/
+0 27 0 172406 0 0
+/admin/ManageCurrency//id/0
+0 1 0 5628 0 0
+/assets/vendor/jQuery.jPlayer.2.6.0/jquery.jplayer.min.js
+0 8 0 105216 0 0
+/assets/vendor/jquery.printelement.js
+0 29 0 76328 0 0
+/admin/withdrawalsettings
+0 2 0 13166 0 0
+/assets/vendor/uikit/js/addons/notify.min.js
+0 10 0 13376 0 0
+/assets/js/store-v3.js
+0 27 0 381807 0 0
+/assets/vendor/bootstrap/css/bootstrap.min.css
+0 26 0 615035 0 0
+/assets/images/step4.png
+1 14 0 35035 0 0
+/assets/vendor/jqplot/plugins/jqplot.canvasAxisTickRenderer.min.js
+0 2 0 2118 0 0
+/admin/themesettings
+0 2 0 13903 0 0
+/cron/processemail
+0 2 0 0 1 0
+# End Of Table - urls
+# -sites- (monthly)
+106.77.131.195
+0 2924 2405 10588321 1 1578490527
+/ajaxadmin
+ec2-18-194-58-132.eu-central-1.compute.amazonaws.com
+0 2 2 174 0 0
+-
+106.76.84.92
+0 3 3 192 1 1578571772
+/ajaxadmin
+106.76.87.14
+0 8 8 512 1 1578571450
+/ajaxmerchant/getNewCancelOrder
+106.77.80.188
+0 23 21 47144 1 1579167801
+/iyzipayinit
+52.114.142.71
+0 4 2 42064 1 1578483028
+/signup
+112.110.75.154
+0 5 5 320 1 1578571585
+/ajaxmerchant/getNewCancelOrder
+112.110.78.180
+0 31 31 1984 1 1578571422
+/ajaxadmin
+106.77.90.199
+0 8 8 512 1 1578571436
+/ajaxmerchant
+crawl-66-249-64-5.googlebot.com
+0 1 0 0 0 0
+-
+106.76.85.50
+0 5 5 320 1 1578571480
+/ajaxmerchant/getNewCancelOrder
+112.110.78.59
+0 279 254 2053007 2 1579178189
+/iyzipayinit
+106.77.150.74
+0 1645 1577 4563866 2 1579094808
+/ajaxadmin/getNewCancelOrderAdmin
+106.77.132.143
+0 6 5 42236 2 1578647556
+/merchantsignupselection
+msbn-smtp1.slipperry.info
+0 1 0 0 1 1578478988
+/
+crawl-66-249-66-159.googlebot.com
+0 1 0 0 0 0
+-
+106.77.90.159
+0 3 3 192 1 1578571590
+/ajaxmerchant
+tor50.quintex.com
+0 4 2 0 1 1578527985
+/
+myhost.com
+0 2 2 0 1 1578576577
+/cron/processemail
+ec2-34-222-229-130.us-west-2.compute.amazonaws.com
+0 1 1 87 0 0
+-
+37-9-113-108.spider.yandex.com
+0 4 4 22296 3 1579631389
+/browse/
+85.100.71.25.dynamic.ttnet.com.tr
+0 17355 16916 20947373 13 1579361942
+/ajax/loadFavorites
+106.76.87.41
+0 8 8 512 1 1578571465
+/ajaxmerchant/getNewCancelOrder
+112.110.76.146
+0 8 8 512 1 1578571751
+/ajaxadmin
+106.77.92.82
+0 16 16 1024 1 1578571646
+/ajaxmerchant
+c10-91.tlh.ro
+0 6 3 11337 1 1578478133
+/
+crawl-66-249-76-111.googlebot.com
+0 3 0 0 0 0
+-
+106.77.83.24
+0 11 11 704 1 1578571723
+/ajaxadmin
+88.241.36.188.dynamic.ttnet.com.tr
+0 14 14 184710 1 1579104001
+/ajax
+5-45-207-53.spider.yandex.com
+0 1 1 9397 1 1579635843
+/merchantsignup
+93-158-166-11.spider.yandex.com
+0 1 1 5272 1 1579204627
+/cuisine
+112.110.74.97
+0 3 3 192 1 1578571576
+/ajaxmerchant
+106.77.149.33
+0 7691 7641 6955921 6 1578576718
+/ajaxadmin/getNewCancelOrderAdmin
+106.77.128.153
+0 10 10 640 1 1578483447
+/ajaxadmin
+106.77.90.115
+0 16 16 1024 1 1578571541
+/ajaxmerchant
+106.77.86.94
+0 8 8 512 1 1578571660
+/ajaxmerchant/getNewCancelOrder
+37-9-113-9.spider.yandex.com
+0 13 12 67949 8 1579628929
+/menu-
+crawl-66-249-66-150.googlebot.com
+0 2 0 0 0 0
+-
+numismatist.bothincrease.net
+0 6 0 0 2 1579061462
+/
+106.76.84.112
+0 5 5 320 1 1578571705
+/ajaxmerchant/getNewCancelOrder
+141-8-183-11.spider.yandex.com
+0 2 2 6423 1 1579259749
+/cuisine
+106.77.87.96
+0 7 7 448 1 1578571570
+/ajaxmerchant/getNewCancelOrder
+106.77.130.30
+0 19 19 6916 1 1578483621
+/ajaxadmin/getNewCancelOrderAdmin
+106.76.83.83
+0 8 8 512 1 1578571765
+/ajaxadmin
+31.145.76.114
+0 87 86 975949 1 1579264108
+/ajax/getRemainingReview
+23.129.64.213
+0 2 0 0 1 1578478077
+-
+95-108-213-54.spider.yandex.com
+0 2 2 10542 2 1579259726
+/cuisine
+112.110.74.141
+0 3 3 192 1 1578571471
+/ajaxadmin
+141-8-189-7.spider.yandex.com
+0 1 1 6349 1 1579651780
+/browse/
+5-45-207-35.spider.yandex.com
+0 1 1 5272 1 1579193834
+/cuisine
+crawl-66-249-76-110.googlebot.com
+0 2 0 0 0 0
+-
+106.76.83.12
+0 3 3 192 1 1578571695
+/ajaxmerchant
+106.77.94.153
+0 8 8 512 1 1578571618
+/ajaxmerchant
+213-180-203-54.spider.yandex.com
+0 3 3 12768 2 1579316203
+/browse
+crawl-66-249-76-102.googlebot.com
+0 5 0 0 0 0
+-
+crawl-66-249-76-112.googlebot.com
+0 6 0 0 0 0
+-
+106.77.139.212
+0 13 13 832 1 1578483391
+/ajaxadmin
+ec2-52-28-236-88.eu-central-1.compute.amazonaws.com
+0 1 1 87 0 0
+-
+propet.milleniervices.net
+0 6 3 73860 2 1578950602
+/
+emailer1-103.thinins.net
+0 6 3 11337 2 1578478134
+/
+106.77.83.217
+0 8 8 512 1 1578571555
+/ajaxmerchant/getNewCancelOrder
+ip-107-180-71-116.ip.secureserver.net
+0 1 0 0 1 1579325200
+-
+52.114.75.71
+0 3 2 11499 2 1578483070
+/admin/packages
+141-8-142-76.spider.yandex.com
+0 51 39 217419 17 1579626072
+/searcharea
+ec2-34-240-209-136.eu-west-1.compute.amazonaws.com
+0 6 3 18835 1 1578478443
+/
+106.76.82.11
+0 5 5 320 1 1578571690
+/ajaxmerchant/getNewCancelOrder
+176.227.51.205
+0 358 358 22912 1 1578570232
+/ajaxadmin
+185.220.101.7
+0 1 0 0 1 1578478999
+/
+106.76.85.184
+0 3 3 192 1 1578571485
+/ajaxmerchant
+52.114.14.102
+0 3 2 11751 1 1579259354
+/admin/login
+95-108-213-45.spider.yandex.com
+0 2 2 14818 2 1579649597
+/merchantsignupinfo
+141-8-183-12.spider.yandex.com
+0 1 1 5273 1 1579206844
+/cuisine
+106.77.86.231
+0 5 5 320 1 1578571600
+/ajaxmerchant/getNewCancelOrder
+crawl-66-249-66-158.googlebot.com
+0 1 0 0 0 0
+-
+106.76.83.98
+0 8 8 512 1 1578571737
+/ajaxadmin
+outbound1.letsencrypt.org
+0 3 3 261 0 0
+-
+106.76.86.228
+0 3 3 192 1 1578571604
+/ajaxmerchant
+95-108-181-83.spider.yandex.com
+0 1 1 6073 1 1579259693
+/cuisine
+112.110.75.242
+0 637 629 12503075 2 1579265139
+/ajax
+88.241.43.178.dynamic.ttnet.com.tr
+0 87 86 975738 1 1579557258
+/ajax/loadFavorites
+106.76.84.124
+0 8 8 512 1 1578571675
+/ajaxmerchant/getNewCancelOrder
+106.66.61.177
+0 30 30 1920 1 1578483786
+/ajaxadmin/getNewCancelOrderAdmin
+37-9-113-55.spider.yandex.com
+0 1 1 5271 1 1579235594
+/cuisine
+crawl-66-249-76-98.googlebot.com
+0 8 0 0 0 0
+-
+ec2-34-209-232-166.us-west-2.compute.amazonaws.com
+0 1 1 87 0 0
+-
+106.66.60.214
+0 19 19 1216 1 1578483539
+/ajaxadmin
+106.77.85.95
+0 8 8 512 1 1578571513
+/ajaxmerchant
+106.66.57.91
+0 4 4 256 1 1578483640
+/ajaxadmin
+213-180-203-62.spider.yandex.com
+0 8 5 27418 5 1579330573
+/contact
+185.220.101.28
+0 2 1 0 1 1578806505
+/
+106.77.93.158
+0 3 3 192 1 1578571499
+/ajaxmerchant
+crawl-66-249-76-100.googlebot.com
+0 9 0 0 0 0
+-
+37-9-113-196.spider.yandex.com
+0 2 1 6273 1 1579206879
+/signup
+106.77.140.79
+0 2 2 128 1 1578483397
+/ajaxadmin
+106.77.87.1
+0 51 44 119824 1 1579166064
+/iyzipayinit
+112.110.74.250
+0 3 3 192 1 1578571681
+/ajaxmerchant
+ec2-3-14-255-131.us-east-2.compute.amazonaws.com
+0 3 3 261 0 0
+-
+c10-34.tlh.ro
+0 6 6 141897 2 1578912186
+/
+106.77.146.28
+0 28 25 83702 1 1579253465
+/iyzipayinit
+46.154.19.237
+0 76 75 797832 1 1579100566
+/ajax/loadFavorites
+106.76.83.78
+0 5 5 320 1 1578571495
+/ajaxmerchant/getNewCancelOrder
+# End Of Table - sites (monthly)
+# -sites- (daily)
+141-8-189-7.spider.yandex.com
+0 1 1 6349 1 1579651780
+/browse/
+# End Of Table - sites (daily)
+# -referrers- 
+https://new.yemeksiparisi.com.tr/assets/css/store-v2.css
+0 66
+http://new.yemeksiparisi.com.tr/merchant/login
+0 33
+https://new.yemeksiparisi.com.tr/assets/vendor/ionicons-2.0.1/css/ionicons.min.css
+0 25
+https://new.yemeksiparisi.com.tr/guestcheckout
+0 190
+http://new.yemeksiparisi.com.tr/merchant/
+0 43
+http://new.yemeksiparisi.com.tr/admin/packagesAdd
+0 5
+https://new.yemeksiparisi.com.tr/iyzipayinit
+0 88
+https://new.yemeksiparisi.com.tr/cuisine
+0 2
+http://new.yemeksiparisi.com.tr/admin/merchantAdd/id/1
+0 79
+https://new.yemeksiparisi.com.tr/assets/vendor/iCheck/skins/minimal/_all.css
+0 17
+http://new.yemeksiparisi.com.tr/index.php/install/finish
+0 7
+http://new.yemeksiparisi.com.tr/admin/settings
+0 2162
+http://new.yemeksiparisi.com.tr/admin/
+0 161
+http://new.yemeksiparisi.com.tr/admin
+0 1643
+http://new.yemeksiparisi.com.tr/merchant/FoodItem/Do/Add
+0 62
+http://new.yemeksiparisi.com.tr/assets/vendor/uikit/css/uikit.almost-flat.min.css
+0 2
+http://new.yemeksiparisi.com.tr/admin/paypal-settings
+0 68
+https://new.yemeksiparisi.com.tr/merchant
+0 26
+http://new.yemeksiparisi.com.tr/admin/merchant
+0 17
+http://new.yemeksiparisi.com.tr/admin/packages
+0 314
+http://new.yemeksiparisi.com.tr/assets/vendor/iCheck/skins/minimal/_all.css
+0 2
+http://new.yemeksiparisi.com.tr/admin/commisionsettings
+0 853
+http://new.yemeksiparisi.com.tr/merchant/category-list
+0 5
+https://new.yemeksiparisi.com.tr/menu-pizzeria
+0 257
+https://new.yemeksiparisi.com.tr/confirmorder
+0 77
+https://new.yemeksiparisi.com.tr/assets/vendor/intel/build/css/intlTelInput.css
+0 18
+http://new.yemeksiparisi.com.tr/admin/themesettings
+0 8
+http://new.yemeksiparisi.com.tr/admin/packagesAdd/id/1
+0 5
+http://new.yemeksiparisi.com.tr/admin/paymentgatewaysettings
+0 392
+https://new.yemeksiparisi.com.tr/cart
+0 6
+http://new.yemeksiparisi.com.tr/merchant/CategoryList/Do/Add/id/1
+0 1
+https://new.yemeksiparisi.com.tr/checkout/
+0 42
+http://new.yemeksiparisi.com.tr/assets/css/admin.css
+0 2
+https://new.yemeksiparisi.com.tr/merchant/login
+0 4
+https://new.yemeksiparisi.com.tr/assets/vendor/jQuery-TE_v.1.4.0/jquery-te-1.4.0.css
+0 1
+https://new.yemeksiparisi.com.tr/browse
+0 130
+- (Direct Request)
+0 326
+http://new.yemeksiparisi.com.tr/merchant/FoodItem/Do/Add/id/1
+0 4306
+https://new.yemeksiparisi.com.tr/merchantsignupinfo
+0 91
+http://new.yemeksiparisi.com.tr/merchant
+0 54
+https://sandbox-api.iyzipay.com/payment/iyzipos/checkoutform/callback3ds/success/27
+0 33
+http://new.yemeksiparisi.com.tr/merchant/food-item
+0 909
+https://new.yemeksiparisi.com.tr/paymentoption
+0 498
+https://new.yemeksiparisi.com.tr/assets/css/admin.css
+0 4
+http://new.yemeksiparisi.com.tr/admin/cancel_order
+0 3
+https://new.yemeksiparisi.com.tr/assets/vendor/font-awesome/css/font-awesome.min.css
+0 18
+http://new.yemeksiparisi.com.tr/merchant/add-on-category
+0 5
+https://new.yemeksiparisi.com.tr/assets/vendor/fancybox/source/jquery.fancybox.css
+0 24
+http://new.yemeksiparisi.com.tr/admin/dashboard
+0 15802
+https://new.yemeksiparisi.com.tr/
+0 1028
+https://new.yemeksiparisi.com.tr/merchantsignupselection
+0 28
+http://new.yemeksiparisi.com.tr/admin/ManageCurrency//id/0
+0 13
+http://new.yemeksiparisi.com.tr/index.php/install
+0 10
+http://new.yemeksiparisi.com.tr/admin/manage-currency
+0 7
+http://new.yemeksiparisi.com.tr/admin/login
+0 69
+https://new.yemeksiparisi.com.tr/admin/login
+0 37
+https://new.yemeksiparisi.com.tr/merchantsignup
+0 113
+https://new.yemeksiparisi.com.tr/paymentoption/
+0 3
+https://new.yemeksiparisi.com.tr/browse/
+0 1
+https://new.yemeksiparisi.com.tr/merchantsignup/
+0 128
+https://new.yemeksiparisi.com.tr/signup
+0 9
+https://new.yemeksiparisi.com.tr/assets/vendor/uikit/css/uikit.almost-flat.min.css
+0 212
+http://new.yemeksiparisi.com.tr/admin/ManageCurrency/Do/Add
+0 25
+http://new.yemeksiparisi.com.tr/assets/vendor/iCheck/skins/flat/_all.css
+0 1
+https://new.yemeksiparisi.com.tr/assets/vendor/chosen/chosen.css
+0 3
+http://new.yemeksiparisi.com.tr/admin/iyzico-settings
+0 1178
+http://new.yemeksiparisi.com.tr/index.php/install/step3
+0 3
+http://new.yemeksiparisi.com.tr/index.php/install/step2
+0 1
+http://new.yemeksiparisi.com.tr/merchant/CategoryList/Do/Add
+0 7
+http://new.yemeksiparisi.com.tr/admin/withdrawalsettings
+0 11
+https://new.yemeksiparisi.com.tr/assets/vendor/iCheck/skins/flat/_all.css
+0 13
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 YaBrowser/19.12.4.25 Yowser/2
+0 105
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 YaBrowser/19.12.1.229 Yowser
+0 80
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36
+0 16358
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36
+0 10481
+Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)
+0 11
+Mozilla/5.0 (Linux; Android 9; SM-G960F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.116 Mobile Safari/537.36
+0 264
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 38
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+0 702
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+0 3021
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:58.0) Gecko/20100101 Firefox/58.0
+0 3
+Mozilla/5.0 (Linux; Android 9; SM-G950F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.116 Mobile Safari/537.36
+0 118
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 5
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 
+0 6
+python-requests/2.22.0
+0 5
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 YaBrowser/19.12.4.25 Yowser/
+0 79
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0.3 Safari/604.5.6
+0 6
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 93
+Mozilla/5.0 (Linux; U; Android 4.4.2; en-us; SCH-I535 Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile
+0 2
+python-requests/2.21.0
+0 5
+Mozilla/5.0 (Linux; Android 7.0; SM-G930V Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.125 Mobile Sa
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36
+0 376
+Mozilla/5.0 (Windows NT 6.1; WOW64) SkypeUriPreview Preview/0.5
+0 10
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.1
+0 3
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+0 3
+curl/7.29.0
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
